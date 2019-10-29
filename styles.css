@@ -1,6 +1,8 @@
-#body{
+body{
     display: table;
     width: 100%;
+    background-color: black;
+    color: white;
 }
 .izquierda{
     float: left;
@@ -10,5 +12,61 @@
 .aside{
     float: right;
     width: 15%;
+}
+h1{
+    color: yellow;
+
+}
+hr{
+    border-color: yellow;s
+}
+header{
+    margin-left: 210px;
+}
+
+nav{
+    margin-left: 210px;
+}
+.Integrantes{
+    margin-left:220px;
+}
+.lista{
+    margin-top: 20px;
+    width: 300px;
+    margin-left:160px;
+    padding-left: 60px;
+    border: yellow solid 2px;
+}
+.Titulo2{
+    margin-left: 500px;
+}
+table{
+    text-align: center;
+    width: 500px;
+    margin-left: 320px;
+    border-collapse: collapse;
+
+    
+    
+}
+table, td{
+    border: 2px solid yellow;
+}
+.Datos{
+    text-align: center;
+    border: yellow solid 2px;
+    margin-left: 150px;
+      
+}
+.informaciónCuriosa{
+    border: yellow solid 2px;
+    margin-left: 150px;
+   
+}
+.Enlaces{
+    border: yellow solid 2px;
+    margin-left: 450px;
+    width: 200px;
+    text-align: center,
 
 }
